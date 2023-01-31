@@ -1,0 +1,3 @@
+[repository]
+name=drbl
+baseurl=http://free.nchc.org.tw/drbl-core/$basearch/RPMS.drbl
